@@ -1,6 +1,6 @@
 {
-    "name": "fastmach",
-    "short_name": "fastmach",
+    "name": "FinanceWallet",
+    "short_name": "FinanceWallet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-# fastmach
+# FinanceWallet
 
 A new Flutter project.
 

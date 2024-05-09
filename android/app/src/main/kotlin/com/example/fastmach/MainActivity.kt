@@ -1,4 +1,4 @@
-package com.example.fastmach
+package com.example.FinanceWallet
 
 import io.flutter.embedding.android.FlutterActivity
 
