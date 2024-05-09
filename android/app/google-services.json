@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856763903870",
+    "project_id": "fastmach-3a85f",
+    "storage_bucket": "fastmach-3a85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856763903870:android:20b7a83d013b14ca520d2f",
+        "android_client_info": {
+          "package_name": "com.example.fastmach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONBph2Soc19OmBIIyy5SJDl4hhMGI768"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
